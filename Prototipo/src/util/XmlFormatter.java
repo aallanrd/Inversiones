@@ -86,15 +86,21 @@ public class XmlFormatter {
     * Se llama a esta funcion y dentro del String se añaden los atributos que se requieran :)
     */
     public static void main(String[] args) {
+        
+        String id = "00013AC"; 
         String unformattedXml =
                 "<?xml version=\"1.0\" encoding=\"UTF-8\"?><QueryMessage\n" +
                         "        xmlns=\"http://www.SDMX.org/resources/SDMXML/schemas/v2_0/message\"\n" +
                         "        xmlns:query=\"http://www.SDMX.org/resources/SDMXML/schemas/v2_0/query\">\n" +
-                        "    <Query>\n" +
-                        "        <query:CategorySchemeWhere>\n" +
-                        "   \t\t\t\t\t         <query:AgencyID>ECB\n\n\n\n</query:AgencyID>\n" +
-                        "        </query:CategorySchemeWhere>\n" +
-                        "    </Query>\n\n\n\n\n" +
+                        "    <Clientes>\n" +
+                        "        <clientes:Interesados>\n" +
+                        "   \t\t\t\t\t         <clientes:ID>ECB\n\n\n\n</clientes:ID>\n" +
+                        "        </clientes:Interesados>\n" +
+                
+                        "        <clientes:Activos>\n" +
+                        "   \t\t\t\t\t         <clientes:ID>"+id+"\n\n\n\n</clientes:ID>\n" +
+                        "        </clientes:Activos>\n" +
+                        "    </Clientes>\n\n\n\n\n" +
                         "</QueryMessage>";
 
         System.out.println(new XmlFormatter().format(unformattedXml));
