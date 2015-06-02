@@ -77,10 +77,10 @@ public class RegistrarClientes extends javax.swing.JFrame {
 
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "Soltero", "Casado", "Divorciado", "Viudo" }));
 
-        jMenu1.setText("File");
+        jMenu1.setText("Archivo");
         jMenuBar1.add(jMenu1);
 
-        jMenu2.setText("Edit");
+        jMenu2.setText("Edicion");
         jMenuBar1.add(jMenu2);
 
         setJMenuBar(jMenuBar1);

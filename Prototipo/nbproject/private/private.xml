@@ -5,8 +5,12 @@
         <group>
             <file>file:/C:/Users/Allan/Documents/GitHub/Inversiones/Prototipo/src/vista/ConsultasClientes.java</file>
             <file>file:/C:/Users/Allan/Documents/GitHub/Inversiones/Prototipo/src/vista/RegistrarClientes.java</file>
+            <file>file:/C:/Users/Allan/Documents/GitHub/Inversiones/Prototipo/src/vista/RegistrarPropiedad.java</file>
+            <file>file:/C:/Users/Allan/Documents/GitHub/Inversiones/Prototipo/src/vista/dialogs/Selec_Client.java</file>
+            <file>file:/C:/Users/Allan/Documents/GitHub/Inversiones/Prototipo/src/vista/dialogs/DetVenta.java</file>
             <file>file:/C:/Users/Allan/Documents/GitHub/Inversiones/Prototipo/src/vista/RegistrarMantenimiento.java</file>
             <file>file:/C:/Users/Allan/Documents/GitHub/Inversiones/Prototipo/src/util/XmlFormatter.java</file>
+            <file>file:/C:/Users/Allan/Documents/GitHub/Inversiones/Prototipo/src/vista/RegistrarVenta.java</file>
         </group>
     </open-files>
 </project-private>
