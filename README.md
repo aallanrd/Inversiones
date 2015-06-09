@@ -1,10 +1,15 @@
 # Inversiones
 Proyecto II - Diseño - Prototipo Validacion Datos
 
-Link al  DOC
+Link a la necesidad planteada
+
+Link al  DOC de la Especificación del Prototipo + ScreenShoots
 https://docs.google.com/document/d/1ngTSCi2hBhunWNDRHws4HE78TzrRSsI_GAxrsngb3I0/edit?usp=sharing
 
 Link al Diagrama UML 
-https://www.gliffy.com/
-Username : allanjose91@gmail.com
-Pass : secret
+ // En construcción
+ 
+Link al DOC de la Especificación de Uso de Patrones y Principios de Diseño
+https://docs.google.com/document/d/12LRlpmhJ6Kc4imgWd6heYlluEa4xrTq82GrrRefiwhc/edit?usp=sharing
+
+ 
