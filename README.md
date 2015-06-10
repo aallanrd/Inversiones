@@ -14,4 +14,4 @@ Link al DOC de la Especificación de Uso de Patrones y Principios de Diseño
 https://docs.google.com/document/d/12LRlpmhJ6Kc4imgWd6heYlluEa4xrTq82GrrRefiwhc/edit?usp=sharing
 
 Link al Diagrama UML 
- // En construcción
+https://drive.google.com/file/d/0B1opabZdy7_eTmNhaGtTc1BhQ3c/view?usp=sharing
